@@ -31,7 +31,7 @@ Below are the User Persona and User Journey desinged in Figma
 
 ### User Journey of LittleLemon
 
-<img width="711" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/4fa295f6-a190-42d7-81b9-7ff13d372b87">
+- <img width="711" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/4fa295f6-a190-42d7-81b9-7ff13d372b87">
 
 
 # Wireframes
@@ -43,21 +43,22 @@ Below are the User Persona and User Journey desinged in Figma
 - Used a 4 column grid for designing a sample mobile screen on Figma.
 - These low-fidelity wireframes doesn't include the properties like the style, color and other fancy attributes but just the functional ones.
 
-[<img width="486" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/9f8c9f0e-4174-4e9f-8a17-83dc7fec0af1">
-]
+- <img width="486" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/9f8c9f0e-4174-4e9f-8a17-83dc7fec0af1">
+
 
 ### LittleLemon Home Screen Wireframe
 - Figma link - [https://www.figma.com/file/Bf0E3wSzGuii7I62LNKfA5/Untitled?type=design&node-id=3%3A108&mode=dev&t=JLGjmdqHEvv5040J-1]
 
--   [<img width="652" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/5a24dbc1-1ba1-4219-b25b-869b997eb83c">
-]
+-   <img width="652" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/5a24dbc1-1ba1-4219-b25b-869b997eb83c">
+
 
 ### A higher fidelity than before
 
-[<img width="625" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/35f08e08-c71d-46d9-80e0-641b272dad59">
-]
+- <img width="625" alt="image" src="https://github.com/Ramu3967/LittleLemonApp/assets/26451658/35f08e08-c71d-46d9-80e0-641b272dad59">
+
 
 ## Demo
 
-Insert gif or link to demo
+![littleLemonComp](https://github.com/Ramu3967/LittleLemonApp/assets/26451658/2d04590f-020c-4371-8689-f4a27f81deb3)
+
 
